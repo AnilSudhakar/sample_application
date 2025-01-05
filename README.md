@@ -22,5 +22,3 @@ This is a sample application to demonstrate the usage of [simple_cpp_project](ht
    ```bash
    ./build.sh
    ```
-
-   ```
